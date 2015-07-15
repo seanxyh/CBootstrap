@@ -5,9 +5,9 @@
  * 使用示例：
  *
  *  程序根目录引入自动加载文件
- *  require_once(PROJECT_ROOT . 'Vendor/CBootstrap/Autoloader.php');
+ *  require_once(PROJECT_ROOT . 'Vendor/cbootstrap/Autoloader.php');
  *  初始化自动加载：spl_autoload_register
- *  \CBootstrap\Autoloader::instance()->init();
+ *  \cbootstrap\Autoloader::instance()->init();
  *  使用时进行加载：命名空间由spl_autoload_register进行加载
  *  \MNLogger\TraceLogger::instance('trace')->HTTP_SR();
  */
