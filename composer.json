@@ -1,5 +1,5 @@
 {
-    "name": "seanxyh/Cbootstrap",
+    "name": "seanxyh/cbootstrap",
     "description": "PHP项目启动初始化过程相关脚本, 自动加载入口文件（替代Composer自带自动加载功能）",
     "keywords": ["cbootstrap", "autoload"],
     "homepage": "https://github.com/seanxyh/Cbootstrap",
